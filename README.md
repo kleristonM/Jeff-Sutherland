@@ -41,3 +41,5 @@
 ##### Atualmente, Jeff Sutherland é o CEO da Scrum Inc, presidente da Scrum Foundation e é agile coach da OpenView Venture Partners. De desenvolvedor de software, a carreira de Jeff mudou completamente.
 
 ##### Seu trabalho agora é praticamente totalmente voltado ao Scrum, trabalhando para usar a metodologia para transformar empresas, assim como empoderar desenvolvedores de software. Porém, o trabalho não se limita a isso, pois como você bem sabe, o Scrum se tornou uma metodologia mundial, extrapolando apenas este setor e atingindo sucesso em implementações nas mais diferentes áreas: como o Marketing, Vendas, Desenvolvimento, Treinamento, Finanças e Produção de Conteúdo.
+
+![jeffff](https://user-images.githubusercontent.com/112489366/190675330-c9660eed-3e80-461f-a2f4-8272faf2e9b5.jpeg)
